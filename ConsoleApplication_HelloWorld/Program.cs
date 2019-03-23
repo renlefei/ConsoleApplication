@@ -10,6 +10,8 @@ namespace ConsoleApplication_HelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!1234");
+            Console.WriteLine("Hello World!5678");
         }
     }
 }
